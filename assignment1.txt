@@ -1,0 +1,20 @@
+Solution 1
+
+public class hello
+{
+	public static void main(String[] args)
+	{
+		System.out.println("Hello World!");
+	}
+}
+
+
+solution 2
+
+public class name
+{
+	public static void main(String[] args)
+	{
+		System.out.println("Aishwarya Raj");
+	}
+}
